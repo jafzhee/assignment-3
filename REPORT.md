@@ -20,8 +20,8 @@ Panjang sisi dihitung menggunakan rumus jarak Euclidean:
 
 
 ### 3. Klasifikasi Segitiga
-| Jenis     | Syarat                               |   |   |   |
-|-----------|--------------------------------------|---|---|---|
+| Jenis     | Syarat                               |
+|-----------|--------------------------------------|
 | Sama sisi | semua sisi sama                      |
 | Sama kaki | dua sisi sama                        |
 | Siku-siku | memenuhi teorema Pythagoras          |
